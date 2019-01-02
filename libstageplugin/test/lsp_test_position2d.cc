@@ -1,3 +1,4 @@
+#include <unistd.h>
 #include "lsp_test_position2d.hh"
 
 using namespace lspTest;
